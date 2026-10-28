@@ -31,7 +31,7 @@ jobs:
       fail-fast: false
       matrix:
         target:
-          - "@prankurv123|UCYe2VVWgjUoEEn9LaLSCk9w"
+          - "@LoganDeRosa|UCGCw1dDY-ECdIe34yc_qDTQ"
 
     steps:
       - name: Checkout Repository
